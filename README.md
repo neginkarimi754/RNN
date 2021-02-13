@@ -1,2 +1,2 @@
-# RNN_Sine_Wave
+# RNN
 RNN on a Sine Wave forcasting with LSTM
